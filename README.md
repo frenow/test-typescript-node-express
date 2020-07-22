@@ -1,1 +1,1 @@
-"# test-typescript-node-express" 
+# typescript + nodejs + express : Examples functions Map, Filter, Reduce
